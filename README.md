@@ -2,8 +2,8 @@
 
 ## 👥 Team Information
 
-* Abhay TS (PES1UG24AM008)
-* Abhishek PH (PES1UG24AM013)
+* Ananthakrishna M A (PES1UG24AM036)
+* Akash G K (PES1UG24AM022)
 
 ---
 
